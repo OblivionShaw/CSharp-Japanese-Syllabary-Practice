@@ -1,0 +1,1 @@
+# CSharp-Japanese-Syllabary-Practice
